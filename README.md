@@ -8,3 +8,6 @@
 # 2.) Open Overleaf, New Project, Upload Project
 # 3.) Upload the .zip file
 # 4.) With the slide folder open, go to Overleaf Menu and change compiler to XeLaTex
+
+## Conference Resources can be found in the "Conference Resources" Folder
+# Conference "about" information are in the conference_faqs powerpoint
